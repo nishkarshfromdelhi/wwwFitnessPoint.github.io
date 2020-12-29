@@ -1,0 +1,27 @@
+body{
+    background: url(gym.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+marquee{
+    font-size: 30px;
+    font-weight: bolder;
+}
+#hack{
+    list-style: none;
+    float: left;
+    padding: 5px;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    position: relative;
+    right: 30px;
+    
+    
+}
+ol li{
+    font-size: 20px;
+    font-weight: bolder;
+}
+a{
+    font-size: 25px;
+}

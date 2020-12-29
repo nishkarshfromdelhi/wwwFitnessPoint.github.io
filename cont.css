@@ -1,0 +1,50 @@
+body{
+    background: url(gym.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+#hack{
+    list-style: none;
+    float: left;
+    padding: 5px;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    position: relative;
+    right: 30px;
+    
+    
+}
+
+#gym{
+    font-size: 40px;
+    font-weight: bolder;
+}
+#email{
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+    
+}
+
+#dv{
+    border: 10px solid black;
+    width: 500px;
+    box-shadow: 10px 10px 10px 10px cyan;
+}
+
+marquee{
+    font-weight: bolder;
+    font-size: 40px;
+}
+@media(max-width: 500px){
+    #email{
+        font-size: 20px;
+
+    }
+    #dv{
+        width: 250px;
+    }
+    #gym{
+        font-size: 35px;
+    }
+}

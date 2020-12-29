@@ -1,0 +1,35 @@
+body{
+    background: url(gym.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+#cyberpunk{
+    font-weight: bold;
+    font-size: 1.5rem;
+
+}
+marquee{
+    font-weight: bolder;
+    font-size: 40px;
+}
+table tr th{
+    font-size: 30px;
+    color: cyan;
+    padding: 5px;
+
+}
+#hack{
+    list-style: none;
+    float: left;
+    padding: 5px;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    position: relative;
+    right: 30px;
+    
+    
+}
+table{
+    box-shadow: 10px 10px 10px 10px cyan;
+}
+
